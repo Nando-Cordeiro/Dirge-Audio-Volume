@@ -8,9 +8,6 @@
 #include "DirgeAudioVolume.generated.h"
 
 
-/**
- * 
- */
 UCLASS()
 class DIRGECPLUS_API ADirgeAudioVolume : public AAudioVolume
 {
